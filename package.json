@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "selenium-webdriver": "^4.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "mocha": "^10.0.0",
+    "prettier": "^2.7.1"
+  },
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  }
+}
